@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - 🔭 I'm currently working on full stack development and software engeneering
-- 🌱 Java
+- 🌱 I'm currently learning Java
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 
 ## 🚀 Stats

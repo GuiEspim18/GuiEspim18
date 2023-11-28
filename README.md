@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I', currently working on full stack development and software engeneering
+- 🔭 I'm, currently working on full stack development and software engeneering
 - 🌱 Java
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 

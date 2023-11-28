@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - 🌱 Java
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 
+<div style="display: flex;">
 ![GuiEspim18's Stats](https://github-readme-stats.vercel.app/api?username=GuiEspim18&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![GuiEspim18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuiEspim18&theme=vue-dark&hide_border=true)
 
 ![GuiEspim18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspim18&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>

@@ -8,10 +8,10 @@
 ## 🚀 Stats
 <div style="display: flex; flex-wrap: wrap;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuiEspim18&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiEspim18&theme=prussian&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspim18&theme=prussian&layout=compact" />
 </div>
 <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspim18&theme=prussian&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiEspim18&theme=prussian&hide_border=true" />
 </div>
 
 ## 💪🏻 Skills

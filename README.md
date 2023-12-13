@@ -15,4 +15,4 @@
 </div>
 
 ## 💪🏻 Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,regex,cpp,postgresql,mysql,mongodb,sqlite,arduino,nestjs,angular,express,jquery,react,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,regex,cpp,postgresql,mysql,mongodb,sqlite,arduino,nestjs,angular,express,maven,jquery,react,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman&theme=dark)](https://skillicons.dev)

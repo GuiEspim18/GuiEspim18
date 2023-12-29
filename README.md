@@ -15,7 +15,7 @@
 </div>
 
 ## 💪🏻 Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,regex,cpp,postgresql,mysql,mongodb,sqlite,arduino,nestjs,spring,angular,express,maven,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,c,cpp,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,spring,angular,express,maven,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guiespim18)](https://github.com/guiespim18/github-profile-trophy)

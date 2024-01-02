@@ -17,5 +17,6 @@
 ## 💪🏻 Skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,c,cpp,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,spring,angular,express,maven,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
 
+## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guiespim18)](https://github.com/guiespim18/github-profile-trophy)

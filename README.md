@@ -8,7 +8,7 @@
 ## 🚀 Stats
 <div style="display: flex; flex-wrap: wrap;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuiEspim18&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
-  <img height="196px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspim18&theme=prussian&layout=compact" />
+  <img height="196px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEspim18&theme=prussian&layout=compact&langs_count=8" />
 </div>
 
 ## 💪🏻 Skills

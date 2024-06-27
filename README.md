@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - 🔭 I'm currently working on full stack development and software engeneering
-- 🌱 I'm currently learning Java
+- 🌱 I'm currently learning Android
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 
 ## 🚀 Stats
@@ -12,7 +12,7 @@
 </div>
 
 ## 💪🏻 Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,python,c,cpp,cs,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,spring,angular,express,maven,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,kotlin,python,c,cpp,cs,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,spring,angular,express,maven,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Github Profile Trophy
 

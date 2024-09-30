@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - 🔭 I'm currently working on data analytics and software engineering
-- 🌱 I'm currently learning Android
+- 🌱 I'm currently learning Android!
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 
 ## 🚀 Stats

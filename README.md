@@ -12,7 +12,7 @@
 </div>
 
 ## 💪🏻 Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,vba,java,kotlin,python,c,cpp,cs,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,androidstudio,spring,angular,express,maven,gradle,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,java,kotlin,python,c,cpp,cs,regex,postgresql,mysql,mongodb,sqlite,arduino,nestjs,androidstudio,spring,angular,express,maven,gradle,jquery,react,hibernate,vite,html,css,scss,materialui,bootstrap,styledcomponents,figma,git,postman,netlify,vercel&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Github Profile Trophy
 

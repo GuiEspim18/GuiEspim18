@@ -1,7 +1,7 @@
 # Hello I'm Guilherme Espim 👋
 
 ## 📖 About me
-- 🔭 I'm currently working on data analytics and software engineering
+- 🔭 I'm currently working with software development
 - 🌱 I'm currently learning C#
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 

@@ -2,7 +2,7 @@
 
 ## 📖 About me
 - 🔭 I'm currently working with software development
-- 🌱 I'm currently learning C#
+- 🌱 I'm currently learning Generative AI
 - 📫 How to reach me: guilherme.monteiro.espim@gmail.com
 
 ## 🚀 Stats
